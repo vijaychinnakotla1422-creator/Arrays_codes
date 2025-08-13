@@ -16,6 +16,11 @@ public class TestArrays1 {
        numbers[7] = 80;
        numbers[8] = 90;
        numbers[9] = 100;
+       numbers[9] = 110;
+       numbers[9] = 120;
+       numbers[9] = 130;
+       numbers[9] = 140;
+       numbers[9] = 150;
        
 
 //       System.out.println(numbers[0]);
