@@ -1,0 +1,20 @@
+package Arrays;
+
+public class TestArrays2 {
+
+	public static void main(String[] args) {
+     //  String [] names;
+//       names = new String [10];
+//       
+//       names[0] = "vijay";
+//       names[1] = "chintu";
+//       names[2] = "hari";
+//       names[3] = "sai";
+         String[] names = {"vijay", "chintu", "hari", "sai", "baskar", "gfewihd"}; 
+       
+    for (int i = 0; i<names.length; i++) {
+    	System.out.print(names[i] + " ");
+    }
+	}
+
+}
