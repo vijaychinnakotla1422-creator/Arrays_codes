@@ -10,7 +10,7 @@ public class TestArrays2 {
 //       names[1] = "chintu";
 //       names[2] = "hari";
 //       names[3] = "sai";
-         String[] names = {"abcd", "efgh", "ijkl", "mno", "pqrs", "tuvwxyz", "fjjh", "hfujiesh"}; 
+         String[] names = {"abcd", "efgh", "ijkl", "mno", "pqrs", "tuvwxyz", "fjjh", "hfujiesh",'sai'}; 
        
     for (int i = 0; i<names.length; i++) {
     	System.out.print(names[i] + " ");

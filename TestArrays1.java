@@ -21,6 +21,7 @@ public class TestArrays1 {
        numbers[9] = 130;
        numbers[9] = 140;
        numbers[9] = 150;
+       // sai
        
 
 //       System.out.println(numbers[0]);
